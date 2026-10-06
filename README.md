@@ -12,9 +12,9 @@ Hello, I'm Maria Eduarda and I'm 21 years old. Here I'll share my projects and m
 
 <!--github stats-->
 <div align="center" style="display: inline">
-  <a href="https://github.com/dudsxo"></a>
-  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=dudsxo&show_icons=true&theme=jolly">
-  <img height="170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dudsxo&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <a href="https://github.com/itsmariadev"></a>
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=itsmariadev&show_icons=true&theme=jolly">
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=itsmariadev&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
 <!--Imagem das linguagens-->
